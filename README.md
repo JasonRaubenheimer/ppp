@@ -1,6 +1,6 @@
 # Programming - Principles and Practice Using C++ 3rd edition
 
-Drills and exercise from the book.
+Drills and exercise from the book: https://www.stroustrup.com/programming.html
 
 ## Notes
 
